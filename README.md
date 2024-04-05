@@ -1,3 +1,8 @@
+## Task 2 Links
+
+- [S3](http://aws-angular-bucket.s3-website-us-east-1.amazonaws.com/)
+- [CloudFront](https://dnuhfq67nz68x.cloudfront.net/)
+
 # Shop Angular Cloudfront
 
 Angular version: ~17.
